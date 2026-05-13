@@ -1,1 +1,1 @@
-# Config
+# Quick Linux setup configuration
