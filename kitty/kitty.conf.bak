@@ -14,12 +14,3 @@ window_decoration     none
 
 # Padding
 window_padding_width  10
-
-
-# BEGIN_KITTY_THEME
-# Atom
-include current-theme.conf
-# END_KITTY_THEME
-
-map ctrl+tab no_op
-map ctrl+shift+tab no_op
